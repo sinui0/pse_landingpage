@@ -614,7 +614,7 @@ eval("module.exports = JSON.parse('[{\"name\":\"Test\",\"short_name\":\"TEST\",\
 /***/ (function(module) {
 
 "use strict";
-eval("module.exports = JSON.parse('[{\"name\":\"AtHeartEngineer\",\"description\":\"Dev\",\"links\":[{\"github\":\"https://github.com/atheartengineer\"},{\"twitter\":\"https://twitter.com/atheartengineer\"}]},{\"name\":\"Person1\",\"description\":\"Dev\",\"links\":[{\"github\":\"https://github.com/atheartengineer\"},{\"twitter\":\"https://twitter.com/atheartengineer\"}]},{\"name\":\"Person2\",\"description\":\"Dev\",\"links\":[{\"github\":\"https://github.com/atheartengineer\"},{\"twitter\":\"https://twitter.com/atheartengineer\"}]}]');\n\n//# sourceURL=webpack://pse-landingpage/./src/data/Team.json?");
+eval("module.exports = JSON.parse('[{\"name\":\"AtHeartEngineer\",\"description\":\"Dev\",\"links\":[{\"github\":\"https://github.com/atheartengineer\"},{\"twitter\":\"https://twitter.com/atheartengineer\"}]}]');\n\n//# sourceURL=webpack://pse-landingpage/./src/data/Team.json?");
 
 /***/ })
 
